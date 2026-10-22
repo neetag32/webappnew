@@ -1,0 +1,7 @@
+/Users/newuser/MyProjects/webappnew/webappnew/webapp/MyFirstWebApp/bin/Release/net10.0/publish/MyFirstWebApp
+/Users/newuser/MyProjects/webappnew/webappnew/webapp/MyFirstWebApp/bin/Release/net10.0/publish/appsettings.Development.json
+/Users/newuser/MyProjects/webappnew/webappnew/webapp/MyFirstWebApp/bin/Release/net10.0/publish/appsettings.json
+/Users/newuser/MyProjects/webappnew/webappnew/webapp/MyFirstWebApp/bin/Release/net10.0/publish/MyFirstWebApp.dll
+/Users/newuser/MyProjects/webappnew/webappnew/webapp/MyFirstWebApp/bin/Release/net10.0/publish/MyFirstWebApp.deps.json
+/Users/newuser/MyProjects/webappnew/webappnew/webapp/MyFirstWebApp/bin/Release/net10.0/publish/MyFirstWebApp.runtimeconfig.json
+/Users/newuser/MyProjects/webappnew/webappnew/webapp/MyFirstWebApp/bin/Release/net10.0/publish/MyFirstWebApp.pdb
